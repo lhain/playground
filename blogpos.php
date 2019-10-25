@@ -5,6 +5,4 @@
         echo JModuleHelper::renderModule($module);
         }
     ?>
-    <!-- Änderung -->
-    
 </div>
