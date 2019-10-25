@@ -1,2 +1,2 @@
-find /var/www/vhosts/DOMAIN/httpdocs/images -type f -size +150k| xargs ls -lahS
+find /var/www/vhosts/DOMAIN/httpdocs/images -type f -size +200k| xargs ls -lahS
 
